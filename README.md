@@ -10,7 +10,7 @@ Built as part of the **Shipsy AI Campus Assignment**, it demonstrates clean back
 - **Frontend:** [https://take-ai-campus-qfpo-git-main-doohgles-projects.vercel.app/](https://take-ai-campus-qfpo-git-main-doohgles-projects.vercel.app/)  
 - **Backend API:** [https://take-ai-campus-3.onrender.com](https://take-ai-campus-3.onrender.com)  
 - **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1_eyBRUZfHQoqRXWz2U5NcE-xwH6bR610/view?usp=sharing)  
-- **Postman Collection:** [View API Documentation](https://www.postman.com/) *(replace with your shared Postman link if available)*  
+- **Postman Collection:** [View API Documentation](https://documenter.getpostman.com/view/49024024/2sB3QGus23#796c1dde-6755-448a-a391-b8a5076fc98b)
 
 ---
 
