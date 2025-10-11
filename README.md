@@ -1,4 +1,4 @@
-# 🎓 Scholarship Validity Platform (Yashaswini Kulshrestha -Shipsy AI campus Assignment)
+# 🎓 Scholarship Validity Platform (Yashaswini Kulshrestha )
 
 A web application to manage and validate scholarship records with complete CRUD functionality.  
 Built as part of the **Shipsy AI Campus Assignment**, it demonstrates clean backend design, PostgreSQL integration, and responsive UI using Tailwind CSS.
